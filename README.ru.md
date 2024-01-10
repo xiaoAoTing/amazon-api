@@ -126,7 +126,90 @@ API для веб-скрапинга Amazon, позволяющий легко �
         "https://m.media-amazon.com/images/I/51Uyij-kH2L._AC_SX679_.jpg"
       ]
     },
-	// ...
+    {
+      "Color": "Graphite",
+      "Size": "128GB",
+      "is_have_store": true,
+      "price": 499.99,
+      "images": [
+        "https://m.media-amazon.com/images/I/71iQPXoiWYL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712YBofr5CL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91+25w3g3bL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81SCqYBS8rL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51i23dYg05L._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "Color": "Graphite",
+      "Size": "256GB",
+      "is_have_store": true,
+      "price": 531.99,
+      "images": [
+        "https://m.media-amazon.com/images/I/71iQPXoiWYL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712YBofr5CL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91+25w3g3bL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81SCqYBS8rL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51i23dYg05L._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "Color": "Mint",
+      "Size": "128GB",
+      "is_have_store": true,
+      "price": 499.99,
+      "images": [
+        "https://m.media-amazon.com/images/I/71JB7R7ttqL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712YBofr5CL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91+25w3g3bL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81SCqYBS8rL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51+3D4C78gL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "Color": "Mint",
+      "Size": "256GB",
+      "is_have_store": true,
+      "price": 559.99,
+      "images": [
+        "https://m.media-amazon.com/images/I/71JB7R7ttqL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712YBofr5CL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91+25w3g3bL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81SCqYBS8rL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51+3D4C78gL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "Color": "Purple",
+      "Size": "128GB",
+      "is_have_store": true,
+      "price": 499.99,
+      "images": [
+        "https://m.media-amazon.com/images/I/71xLciLxT6L._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712YBofr5CL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91+25w3g3bL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81SCqYBS8rL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51Pjp8gR3GL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "Color": "Purple",
+      "Size": "256GB",
+      "is_have_store": true,
+      "price": 594.61,
+      "images": [
+        "https://m.media-amazon.com/images/I/71xLciLxT6L._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712YBofr5CL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/91+25w3g3bL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81SCqYBS8rL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51Pjp8gR3GL._AC_SX679_.jpg"
+      ]
+    }
   ]
 }
 ```
