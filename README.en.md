@@ -216,4 +216,4 @@ It covers multiple Amazon sites and provides a simple and user-friendly interfac
 
 ## Contact Us
 
-<div style="text-align: center;"><img src="./wechat.jpg" style="width: 50%;"></div>
+Email: zs3318477916@163.com
