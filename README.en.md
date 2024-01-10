@@ -20,7 +20,7 @@ It covers multiple Amazon sites and provides a simple and user-friendly interfac
     "full_domain": "www.amazon.com",
     "domain": "amazon.com",
     "code": "US",
-    "label": "United States"
+    "label": "美国"
   },
   "title": "SAMSUNG Galaxy S23 FE Cell Phone, 128GB, Unlocked Android Smartphone, Long Battery Life, Premium Processor, Tough Gorilla Glass Display, Hi-Res 50MP Camera, US Version, 2023, Mint",
   "price": 499.99,
@@ -116,9 +116,7 @@ It covers multiple Amazon sites and provides a simple and user-friendly interfac
       "Color": "Cream",
       "Size": "256GB",
       "is_have_store": true,
-      "price":
-
- 569.41,
+      "price": 569.41,
       "images": [
         "https://m.media-amazon.com/images/I/71ukK41npyL._AC_SX679_.jpg",
         "https://m.media-amazon.com/images/I/81vAh8x6XZL._AC_SX679_.jpg",
