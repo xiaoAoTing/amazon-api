@@ -1,6 +1,6 @@
 # Amazon Data Collection API
 
-<p style="text-align: center;">[中文](./README.md) | English | [Русский](./README.ru.md)</p>
+[中文](./README.md) | English | [Русский](./README.ru.md)
 
 Amazon crawler API that allows you to easily retrieve Amazon product data, including information about products, prices, images, variant data, and more.
 
