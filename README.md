@@ -1,6 +1,6 @@
 # Amazon 数据采集 API
 
-<p>中文 | [English](./README.en.md) | [Русский](./README.ru.md)</p>
+中文 | [English](./README.en.md) | [Русский](./README.ru.md)
 
 亚马逊爬虫 API，使你轻松地获取亚马逊产品数据，商品、价格、图片、变体数据等等。
 
