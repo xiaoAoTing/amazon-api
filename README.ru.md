@@ -215,4 +215,5 @@ API для веб-скрапинга Amazon, позволяющий легко �
 ```
 
 ## Контакты
-<div style="text-align: center;"><img src="./wechat.jpg" style="width: 50%;"></div>
+
+Email: zs3318477916@163.com
